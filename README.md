@@ -1,11 +1,14 @@
 # Simple-Raytracer
-A simple c++ Raytracer made as part of University assignment
+A simple C++ Raytracer made as part of University assignment
 
 ## Overview
 
 This project is a simple raytracer developed as part of the Computer Graphics Lab. It builds on classes that were provided by the Professor (Geometry.h and Math.h) which were further expanded upon in previous assignments.
 The raytracer is a basic raytracing engine with recursive reflections and Lambertian shading.
 
+## Example Render
+
+![Simple Raytracer Output](output.png)
 
 ## Features
 

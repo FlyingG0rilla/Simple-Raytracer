@@ -1,0 +1,17 @@
+#CLion/IDE spezifische Dateien
+.idea/
+.iml
+
+#Build-Ordner
+cmake-build-/
+
+#giExecutables
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.pdb
+
+#Sonstige temporäre Dateien
+*.log

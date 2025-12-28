@@ -1,3 +1,0 @@
-"C:\Users\Dennis Schwab\AppData\Local\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\ComputergrafikLabor_A3.dir/objects.a
-C:\Users\DENNIS~1\AppData\Local\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\ComputergrafikLabor_A3.dir/objects.a @CMakeFiles\ComputergrafikLabor_A3.dir\objects1.rsp
-C:\Users\DENNIS~1\AppData\Local\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\ComputergrafikLabor_A3.dir/objects.a -Wl,--no-whole-archive -o ComputergrafikLabor_A3.exe -Wl,--out-implib,libComputergrafikLabor_A3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ComputergrafikLabor_A3.dir\linkLibs.rsp

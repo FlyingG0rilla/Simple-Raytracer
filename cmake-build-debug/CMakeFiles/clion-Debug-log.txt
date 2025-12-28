@@ -1,0 +1,4 @@
+"C:\Users\Dennis Schwab\AppData\Local\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/msys64/mingw64/bin/mingw32-make.exe -G "MinGW Makefiles" -S "C:\Users\Dennis Schwab\Desktop\ComputergrafikLabor_A3" -B "C:\Users\Dennis Schwab\Desktop\ComputergrafikLabor_A3\cmake-build-debug"
+-- Configuring done (0.2s)
+-- Generating done (0.4s)
+-- Build files have been written to: C:/Users/Dennis Schwab/Desktop/ComputergrafikLabor_A3/cmake-build-debug

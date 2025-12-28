@@ -3,7 +3,7 @@
 .iml
 
 #Build-Ordner
-cmake-build-/
+cmake-build-debug/
 
 #giExecutables
 *.exe

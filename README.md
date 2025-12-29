@@ -30,4 +30,4 @@ The raytracer is a basic raytracing engine with recursive reflections and Lamber
 
 > **Note:** Usage of Language Models such as ChatGPT was permitted and encouraged by the Professor.
 > The implementation was developed by me based on lecture material and pseudocode provided by the Professor. ChatGPT-5 was used to troubleshoot, debug and to generate the "Cornell Box".
-> The output image is a .ppm file by default, however it was converted with external tool into a .png file to display inside this README
+> The output image is a .ppm file by default, however it was converted with an external tool into a .png file to display inside this README

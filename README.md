@@ -25,7 +25,7 @@ The raytracer is a basic raytracing engine with recursive reflections and Lamber
 ## Tech Stack
 - **Programming Language:** C++
 - **Build System:** CMake
-- **Libraries:** Standard C++ Librariess (*<vector>*,*<iostream>*,*<fstream>*,*<memory>*, *<algorithm>*)
+- **Libraries:** Standard C++ Librariess (```vector```,```iostream```,```fstream```,```memory```, ```algorithm```)
 - **Version Control:** Git
 
 > **Note:** Usage of Language Models such as ChatGPT was permitted and encouraged by the Professor.
